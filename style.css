@@ -1,5 +1,5 @@
 html {
-  font-family: "Libre Baskerville", sans;
+  font-family: "Libre Baskerville";
   color: white;
   background-color: black;
 }
@@ -17,5 +17,5 @@ div {
 }
 
 h1 {
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
